@@ -2,7 +2,7 @@
 
 namespace Myrtle\Core\Establishments\Models\Traits;
 
-use Myrtle\Establishments\Models\EstablishmentName;
+use Myrtle\Core\Establishments\Models\EstablishmentName;
 
 trait HasEstablishmentName {
 

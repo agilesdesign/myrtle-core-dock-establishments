@@ -4,7 +4,7 @@ namespace Myrtle\Core\Establishments\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use Myrtle\Establishments\Models\Traits\Establishmentable;
+use Myrtle\Core\Establishments\Models\Traits\Establishmentable;
 
 class EstablishmentGovernment extends Model
 {

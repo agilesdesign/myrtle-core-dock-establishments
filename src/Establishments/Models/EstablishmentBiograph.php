@@ -4,8 +4,8 @@ namespace Myrtle\Core\Establishments\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use Myrtle\Establishments\Models\Traits\Establishmentable;
-use Myrtle\Establishments\Models\Traits\BelongsToEstablishmentType;
+use Myrtle\Core\Establishments\Models\Traits\Establishmentable;
+use Myrtle\Core\Establishments\Models\Traits\BelongsToEstablishmentType;
 
 class EstablishmentBiograph extends Model
 {

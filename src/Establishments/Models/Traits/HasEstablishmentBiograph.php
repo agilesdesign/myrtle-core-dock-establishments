@@ -2,7 +2,7 @@
 
 namespace Myrtle\Core\Establishments\Models\Traits;
 
-use Myrtle\Establishments\Models\EstablishmentBiograph;
+use Myrtle\Core\Establishments\Models\EstablishmentBiograph;
 
 trait HasEstablishmentBiograph {
 

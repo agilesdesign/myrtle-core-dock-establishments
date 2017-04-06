@@ -2,7 +2,7 @@
 
 namespace Myrtle\Core\Establishments\Models\Traits;
 
-use Myrtle\Establishments\Models\EstablishmentGovernment;
+use Myrtle\Core\Establishments\Models\EstablishmentGovernment;
 
 trait HasEstablishmentGovernment {
 

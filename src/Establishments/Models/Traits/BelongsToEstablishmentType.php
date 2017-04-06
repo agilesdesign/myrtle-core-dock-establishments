@@ -2,7 +2,7 @@
 
 namespace Myrtle\Core\Establishments\Models\Traits;
 
-use Myrtle\Establishments\Models\EstablishmentType;
+use Myrtle\Core\Establishments\Models\EstablishmentType;
 
 trait BelongsToEstablishmentType {
 

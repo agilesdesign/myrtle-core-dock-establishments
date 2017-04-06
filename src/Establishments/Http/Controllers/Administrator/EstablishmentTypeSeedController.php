@@ -5,7 +5,7 @@ namespace Myrtle\Core\Establishments\Http\Controllers\Administrator;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Artisan;
-use Myrtle\Establishments\Models\EstablishmentType;
+use Myrtle\Core\Establishments\Models\EstablishmentType;
 
 class EstablishmentTypeSeedController extends Controller
 {

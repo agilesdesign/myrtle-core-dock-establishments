@@ -2,8 +2,8 @@
 
 namespace Myrtle\Core\Docks;
 
-use Myrtle\Establishments\Models\EstablishmentType;
-use Myrtle\Establishments\Policies\EstablishmentPolicy;
+use Myrtle\Core\Establishments\Models\EstablishmentType;
+use Myrtle\Core\Establishments\Policies\EstablishmentPolicy;
 
 class EstablishmentsDock extends Dock
 {

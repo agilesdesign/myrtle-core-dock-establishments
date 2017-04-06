@@ -4,7 +4,7 @@ namespace Myrtle\Core\Establishments\Http\Controllers\Administrator;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Myrtle\Establishments\Models\EstablishmentType;
+use Myrtle\Core\Establishments\Models\EstablishmentType;
 
 class EstablishmentTypesController extends Controller {
 
